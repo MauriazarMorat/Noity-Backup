@@ -1,0 +1,64 @@
+<Stats deaths="105" kills="13" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="3" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="8" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="necromancer_super | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="61" >
+    </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="11" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_returner | $damage_explosion" value="2" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="3" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="enlightened_alchemist" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+  </kill_map>
+</Stats>

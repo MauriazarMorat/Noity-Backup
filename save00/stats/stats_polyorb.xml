@@ -1,0 +1,20 @@
+<Stats deaths="21" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="phantom_a | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="13" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

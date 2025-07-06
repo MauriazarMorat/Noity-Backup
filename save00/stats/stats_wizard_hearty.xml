@@ -1,0 +1,46 @@
+<Stats deaths="84" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="5" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="3" >
+    </E>
+    <E key="meatmaggot | worm bite" value="4" >
+    </E>
+    <E key="necrobot | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="58" >
+    </E>
+    <E key="player | $damage_rock_curse" value="2" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="meatmaggot" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scorpion" value="9" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+    <E key="sniper_hell" value="1" >
+    </E>
+  </kill_map>
+</Stats>

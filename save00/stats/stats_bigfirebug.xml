@@ -1,0 +1,88 @@
+<Stats deaths="345" kills="54" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="15" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="32" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="13" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="NULL | $damage_water" value="5" >
+    </E>
+    <E key="NULL | damage from material: Water" value="45" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: swamp" value="2" >
+    </E>
+    <E key="bat | $damage_melee" value="2" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="evil_eye | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="firebug | $damage_fire" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="5" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_ice" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="139" >
+    </E>
+    <E key="player | $damage_slice" value="46" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="8" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="4" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="5" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fungus" value="3" >
+    </E>
+    <E key="glitter_bomb" value="2" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="miner" value="5" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="21" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="slimeshooter" value="6" >
+    </E>
+    <E key="slimespirit" value="1" >
+    </E>
+  </kill_map>
+</Stats>

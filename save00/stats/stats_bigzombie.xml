@@ -1,0 +1,64 @@
+<Stats deaths="75" kills="33" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="13" >
+    </E>
+    <E key="NULL | $damage_fire" value="14" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="4" >
+    </E>
+    <E key="NULL | damage from material: toxic ice" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="21" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="2" >
+    </E>
+    <E key="sunegg | $damage_sun" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="2" >
+    </E>
+    <E key="flynest" value="2" >
+    </E>
+    <E key="glue" value="4" >
+    </E>
+    <E key="miniblob" value="8" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_glue" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="7" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="wolf" value="1" >
+    </E>
+  </kill_map>
+</Stats>

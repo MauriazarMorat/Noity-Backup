@@ -1,0 +1,26 @@
+<Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:48:01" >
+  <stats biomes_visited_with_wands="8" damage_taken="31.4033" dead="1" death_count="0" death_pos.x="697.757" death_pos.y="6601.68" enemies_killed="134" gold="102634" gold_all="265369" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="27" kicks="80" killed_by=" | damage from material: freezing vapour" killed_by_extra="" places_visited="8" playtime="12916.4" playtime_str="3:35:16" projectiles_shot="4082" streaks="0" teleports="2" wands_edited="3" world_seed="2047979184" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_watchtower" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

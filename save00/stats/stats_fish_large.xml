@@ -1,0 +1,22 @@
+<Stats deaths="67" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="32" >
+    </E>
+    <E key="NULL | $damage_explosion" value="22" >
+    </E>
+    <E key="eel | worm bite" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
+    </E>
+    <E key="worm_tiny | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

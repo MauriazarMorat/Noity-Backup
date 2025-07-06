@@ -1,0 +1,56 @@
+<Stats deaths="163" kills="12" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_fire" value="5" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="12" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="16" >
+    </E>
+    <E key="boss_limbs | hit" value="1" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="2" >
+    </E>
+    <E key="failed_alchemist | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_projectile" value="85" >
+    </E>
+    <E key="player | $damage_rock_curse" value="11" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="6" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="wraith_glowing | $damage_explosion" value="1" >
+    </E>
+    <E key="wraith_glowing | $damage_holy" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="berserkspirit" value="1" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="scorpion" value="5" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

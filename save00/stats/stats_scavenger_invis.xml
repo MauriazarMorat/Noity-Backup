@@ -1,0 +1,84 @@
+<Stats deaths="208" kills="21" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="42" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="9" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="2" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="8" >
+    </E>
+    <E key="alchemist | $damage_projectile" value="1" >
+    </E>
+    <E key="bigzombie | $damage_explosion" value="1" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="3" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="necrobot | $damage_projectile" value="1" >
+    </E>
+    <E key="necromancer_super | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="12" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="3" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="92" >
+    </E>
+    <E key="player | $damage_rock_curse" value="1" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="blob" value="3" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="miniblob" value="11" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+  </kill_map>
+</Stats>

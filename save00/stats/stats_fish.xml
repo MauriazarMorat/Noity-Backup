@@ -1,0 +1,46 @@
+<Stats deaths="816" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="48" >
+    </E>
+    <E key="NULL | $damage_explosion" value="18" >
+    </E>
+    <E key="NULL | $damage_fire" value="14" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: acid" value="23" >
+    </E>
+    <E key="NULL | damage from material: concentrated mana" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="133" >
+    </E>
+    <E key="necromancer_shop | $damage_projectile" value="21" >
+    </E>
+    <E key="necromancer_super | $damage_explosion" value="21" >
+    </E>
+    <E key="necromancer_super | $damage_projectile" value="2" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="73" >
+    </E>
+    <E key="player | $damage_fire" value="3" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="98" >
+    </E>
+    <E key="player | $damage_slice" value="18" >
+    </E>
+    <E key="player | bzzt!" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="332" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

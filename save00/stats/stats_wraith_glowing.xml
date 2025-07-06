@@ -1,0 +1,24 @@
+<Stats deaths="12" kills="5" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="player | $damage_rock_curse" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="arrowtrap_left" value="1" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+  </kill_map>
+</Stats>

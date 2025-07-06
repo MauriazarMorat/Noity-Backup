@@ -1,0 +1,42 @@
+<Stats deaths="87" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="2" >
+    </E>
+    <E key="lasergun | $damage_projectile" value="4" >
+    </E>
+    <E key="meatmaggot | worm bite" value="2" >
+    </E>
+    <E key="miner_hell | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_melee" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="51" >
+    </E>
+    <E key="player | $damage_rock_curse" value="2" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="1" >
+    </E>
+    <E key="sniper_hell | $damage_projectile" value="5" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_returner | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="lasergun" value="1" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

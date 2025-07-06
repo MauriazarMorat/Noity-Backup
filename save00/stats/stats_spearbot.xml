@@ -1,0 +1,18 @@
+<Stats deaths="7" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_projectile" value="5" >
+    </E>
+    <E key="player | $damage_rock_curse" value="1" >
+    </E>
+    <E key="sunbaby | $damage_sun" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="glue" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="thunderskull" value="12" >
+    </E>
+  </kill_map>
+</Stats>

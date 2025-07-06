@@ -1,0 +1,64 @@
+<Stats deaths="143" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="16" >
+    </E>
+    <E key="NULL | $damage_fire" value="6" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="NULL | damage from material: acid" value="4" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="4" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="bigzombie | $damage_explosion" value="1" >
+    </E>
+    <E key="boss_pit | $damage_projectile" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
+    </E>
+    <E key="necromancer_super | $damage_projectile" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="10" >
+    </E>
+    <E key="player | $damage_explosion" value="11" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="41" >
+    </E>
+    <E key="player | $damage_slice" value="11" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_heal | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="3" >
+    </E>
+    <E key="scavenger_poison | $damage_explosion" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="2" >
+    </E>
+    <E key="sunegg | $damage_sun" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

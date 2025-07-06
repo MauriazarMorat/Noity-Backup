@@ -1,0 +1,38 @@
+<Stats deaths="54" kills="37" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="18" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="6" >
+    </E>
+    <E key="NULL | damage from material: acid" value="11" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="1" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="14" >
+    </E>
+    <E key="player | $damage_rock_curse" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="miniblob" value="23" >
+    </E>
+    <E key="physics_ragdoll_ai" value="2" >
+    </E>
+    <E key="pollen" value="2" >
+    </E>
+    <E key="sheep" value="6" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+  </kill_map>
+</Stats>

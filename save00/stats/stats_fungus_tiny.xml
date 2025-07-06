@@ -1,0 +1,70 @@
+<Stats deaths="1649" kills="21" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1162" >
+    </E>
+    <E key="NULL | $damage_fire" value="98" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="14" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="44" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="72" >
+    </E>
+    <E key="ant | $damage_melee" value="3" >
+    </E>
+    <E key="blob | $damage_melee" value="5" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="1" >
+    </E>
+    <E key="firemage | $damage_explosion" value="1" >
+    </E>
+    <E key="firemage | $damage_fire" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_fire" value="2" >
+    </E>
+    <E key="frog_big | $damage_melee" value="3" >
+    </E>
+    <E key="fungus_tiny | $damage_explosion" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="17" >
+    </E>
+    <E key="orb_laseremitter_weak | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="48" >
+    </E>
+    <E key="player | $damage_fire" value="4" >
+    </E>
+    <E key="player | $damage_melee" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="135" >
+    </E>
+    <E key="player | $damage_rock_curse" value="14" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="playerghost | $damage_slice" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="4" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="3" >
+    </E>
+    <E key="fungus_tiny" value="1" >
+    </E>
+    <E key="miniblob" value="17" >
+    </E>
+  </kill_map>
+</Stats>

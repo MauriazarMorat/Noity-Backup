@@ -1,0 +1,84 @@
+<Stats deaths="982" kills="6" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="523" >
+    </E>
+    <E key="NULL | $damage_fire" value="167" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="38" >
+    </E>
+    <E key="NULL | damage from material: lava" value="7" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="31" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="2" >
+    </E>
+    <E key="bigfirebug | $damage_melee" value="1" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="firebug | $damage_fire" value="3" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer_super | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="13" >
+    </E>
+    <E key="player | $damage_fire" value="3" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="144" >
+    </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="3" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+  </kill_map>
+</Stats>

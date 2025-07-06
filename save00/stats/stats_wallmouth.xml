@@ -1,0 +1,36 @@
+<Stats deaths="69" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="boss_meat | $damage_explosion" value="1" >
+    </E>
+    <E key="maggot_tiny | $damage_explosion" value="1" >
+    </E>
+    <E key="maggot_tiny | worm bite" value="4" >
+    </E>
+    <E key="meatmaggot | worm bite" value="13" >
+    </E>
+    <E key="miner_hell | $damage_explosion" value="4" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="34" >
+    </E>
+    <E key="walleye | $damage_explosion" value="2" >
+    </E>
+    <E key="worm_big | worm bite" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="meatmaggot" value="2" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="shotgunner_hell" value="1" >
+    </E>
+  </kill_map>
+</Stats>

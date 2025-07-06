@@ -1,0 +1,50 @@
+<Stats deaths="6" kills="61" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="5" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="fish" value="23" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="glue" value="4" >
+    </E>
+    <E key="lasershooter" value="1" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="miniblob" value="9" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="4" >
+    </E>
+  </kill_map>
+</Stats>

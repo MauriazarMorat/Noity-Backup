@@ -1,0 +1,76 @@
+<Stats deaths="120" kills="37" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | $damage_projectile" value="3" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="5" >
+    </E>
+    <E key="lasergun | $damage_projectile" value="7" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="73" >
+    </E>
+    <E key="player | $damage_rock_curse" value="6" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="barfer" value="1" >
+    </E>
+    <E key="enlightened_alchemist" value="1" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="8" >
+    </E>
+    <E key="failed_alchemist_orb" value="1" >
+    </E>
+    <E key="lasergun" value="1" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="phantom_a" value="5" >
+    </E>
+    <E key="phantom_b" value="2" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scorpion" value="4" >
+    </E>
+    <E key="shotgunner_hell" value="1" >
+    </E>
+    <E key="statue_physics" value="1" >
+    </E>
+    <E key="wand_ghost" value="2" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

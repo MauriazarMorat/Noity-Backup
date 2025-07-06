@@ -1,0 +1,22 @@
+<Stats deaths="37" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="4" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="wizard_returner | $damage_explosion" value="8" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

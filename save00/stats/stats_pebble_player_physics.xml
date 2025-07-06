@@ -1,0 +1,30 @@
+<Stats deaths="50" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="15" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="3" >
+    </E>
+    <E key="icemage | $damage_explosion" value="3" >
+    </E>
+    <E key="pebble_player_physics | $damage_explosion" value="17" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="3" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="2" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_player_physics" value="17" >
+    </E>
+  </kill_map>
+</Stats>

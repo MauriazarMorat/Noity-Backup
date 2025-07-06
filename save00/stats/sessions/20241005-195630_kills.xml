@@ -1,0 +1,56 @@
+<Stats deaths="1" kills="128" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="10" >
+    </E>
+    <E key="acidshot" value="6" >
+    </E>
+    <E key="bat" value="23" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="egg_fire" value="5" >
+    </E>
+    <E key="egg_monster" value="7" >
+    </E>
+    <E key="egg_red" value="4" >
+    </E>
+    <E key="egg_slime" value="6" >
+    </E>
+    <E key="enlightened_alchemist" value="6" >
+    </E>
+    <E key="essence_eater" value="1" >
+    </E>
+    <E key="failed_alchemist" value="4" >
+    </E>
+    <E key="firebug" value="30" >
+    </E>
+    <E key="lasergun" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="5" >
+    </E>
+    <E key="tentacler_small" value="5" >
+    </E>
+    <E key="wizard_neutral" value="2" >
+    </E>
+    <E key="wizard_returner" value="1" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+  </kill_map>
+</Stats>

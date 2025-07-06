@@ -1,0 +1,22 @@
+<Stats deaths="78" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="33" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | physics body damaged" value="4" >
+    </E>
+    <E key="boss_robot | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="24" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="5" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

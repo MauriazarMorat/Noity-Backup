@@ -1,0 +1,52 @@
+<Stats deaths="126" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | $damage_water" value="7" >
+    </E>
+    <E key="NULL | damage from material: Water" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="orb_laseremitter_weak | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="94" >
+    </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="sniper_hell | $damage_projectile" value="1" >
+    </E>
+    <E key="sunegg | $damage_sun" value="1" >
+    </E>
+    <E key="walleye | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="1" >
+    </E>
+    <E key="fungus_tiny" value="2" >
+    </E>
+    <E key="miniblob" value="6" >
+    </E>
+    <E key="physics_ragdoll_ai" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scorpion" value="5" >
+    </E>
+  </kill_map>
+</Stats>

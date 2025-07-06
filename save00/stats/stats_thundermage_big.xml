@@ -1,0 +1,18 @@
+<Stats deaths="2" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="1" >
+    </E>
+    <E key="miniblob" value="9" >
+    </E>
+    <E key="scavenger_grenade" value="4" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,10 @@
+<Stats deaths="0" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshot" value="20" >
+    </E>
+  </kill_map>
+</Stats>

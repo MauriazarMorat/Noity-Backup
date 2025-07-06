@@ -1,0 +1,136 @@
+<Stats deaths="358" kills="89" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="13" >
+    </E>
+    <E key="NULL | $damage_electricity" value="4" >
+    </E>
+    <E key="NULL | $damage_explosion" value="57" >
+    </E>
+    <E key="NULL | $damage_fire" value="11" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="9" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="10" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="11" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="drone_physics | $damage_projectile" value="3" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="firebug | $damage_fire" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="2" >
+    </E>
+    <E key="frog_big | $damage_melee" value="2" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="2" >
+    </E>
+    <E key="miner | $damage_explosion" value="2" >
+    </E>
+    <E key="miniblob | $damage_melee" value="2" >
+    </E>
+    <E key="necromancer_super | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer_super | $damage_projectile" value="3" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="phantom_a | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="8" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="3" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="142" >
+    </E>
+    <E key="player | $damage_rock_curse" value="2" >
+    </E>
+    <E key="player | $damage_slice" value="9" >
+    </E>
+    <E key="playerghost | $damage_explosion" value="1" >
+    </E>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="rat | $damage_melee" value="2" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="1" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_invis | $damage_projectile" value="2" >
+    </E>
+    <E key="skullrat | $damage_melee" value="3" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="2" >
+    </E>
+    <E key="sniper | $damage_projectile" value="3" >
+    </E>
+    <E key="tentacler | $damage_melee" value="10" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="6" >
+    </E>
+    <E key="wizard_dark | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_explosion" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+    <E key="zombie | $damage_melee" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="ant" value="6" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="rat" value="53" >
+    </E>
+    <E key="scorpion" value="4" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="6" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="wizard_dark" value="3" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="zombie" value="8" >
+    </E>
+  </kill_map>
+</Stats>

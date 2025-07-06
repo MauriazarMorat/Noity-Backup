@@ -1,0 +1,50 @@
+<Stats deaths="67" kills="61" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="9" >
+    </E>
+    <E key="maggot_tiny | worm bite" value="1" >
+    </E>
+    <E key="meatmaggot | worm bite" value="11" >
+    </E>
+    <E key="miner_hell | $damage_explosion" value="11" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="1" >
+    </E>
+    <E key="sniper_hell | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper_hell | $damage_projectile" value="4" >
+    </E>
+    <E key="walleye | $damage_explosion" value="1" >
+    </E>
+    <E key="walleye | $damage_projectile" value="2" >
+    </E>
+    <E key="worm_big | worm bite" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="meatmaggot" value="6" >
+    </E>
+    <E key="miner_hell" value="11" >
+    </E>
+    <E key="rat" value="16" >
+    </E>
+    <E key="shotgunner_hell" value="2" >
+    </E>
+    <E key="tnt_hell" value="18" >
+    </E>
+    <E key="walleye" value="3" >
+    </E>
+    <E key="wallmouth" value="4" >
+    </E>
+  </kill_map>
+</Stats>

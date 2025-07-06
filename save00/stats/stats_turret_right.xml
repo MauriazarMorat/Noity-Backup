@@ -1,0 +1,28 @@
+<Stats deaths="23" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="basebot_soldier | $damage_projectile" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="11" >
+    </E>
+    <E key="turret_right | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+  </kill_map>
+</Stats>

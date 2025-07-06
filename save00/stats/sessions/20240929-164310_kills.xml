@@ -1,0 +1,70 @@
+<Stats deaths="1" kills="123" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="5" >
+    </E>
+    <E key="chest_mimic" value="1" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="frog" value="3" >
+    </E>
+    <E key="giant" value="3" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="icemage" value="1" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="monk" value="3" >
+    </E>
+    <E key="pebble_physics" value="5" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="18" >
+    </E>
+    <E key="scavenger_glue" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="14" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="13" >
+    </E>
+    <E key="shotgunner" value="9" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="7" >
+    </E>
+    <E key="tank" value="6" >
+    </E>
+    <E key="tank_rocket" value="2" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>
