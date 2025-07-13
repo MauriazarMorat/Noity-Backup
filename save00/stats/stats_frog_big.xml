@@ -1,8 +1,8 @@
-<Stats deaths="293" kills="54" player_kills="0" player_projectile_count="0" >
+<Stats deaths="296" kills="56" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="13" >
     </E>
-    <E key="NULL | $damage_explosion" value="143" >
+    <E key="NULL | $damage_explosion" value="145" >
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="7" >
     </E>
-    <E key="ant | $damage_melee" value="2" >
+    <E key="ant | $damage_melee" value="3" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="miner_weak" value="1" >
     </E>
-    <E key="rat" value="19" >
+    <E key="rat" value="20" >
     </E>
     <E key="sheep" value="1" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="wizard_dark" value="1" >
     </E>
-    <E key="zombie" value="6" >
+    <E key="zombie" value="7" >
     </E>
   </kill_map>
 </Stats>

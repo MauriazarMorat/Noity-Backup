@@ -1,12 +1,12 @@
-<Stats deaths="332" kills="43" player_kills="0" player_projectile_count="0" >
+<Stats deaths="348" kills="45" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key=" | kill sync" value="2" >
     </E>
-    <E key="NULL | $damage_drowning" value="10" >
+    <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="40" >
+    <E key="NULL | $damage_explosion" value="42" >
     </E>
     <E key="NULL | $damage_fire" value="13" >
     </E>
@@ -30,6 +30,8 @@
     </E>
     <E key="enlightened_alchemist | $damage_explosion" value="1" >
     </E>
+    <E key="firemage | $damage_explosion" value="1" >
+    </E>
     <E key="icemage | $damage_explosion" value="1" >
     </E>
     <E key="necromancer | $damage_melee" value="1" >
@@ -42,7 +44,7 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="8" >
+    <E key="player | $damage_explosion" value="9" >
     </E>
     <E key="player | $damage_fire" value="8" >
     </E>
@@ -50,9 +52,9 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="152" >
+    <E key="player | $damage_projectile" value="161" >
     </E>
-    <E key="player | $damage_rock_curse" value="2" >
+    <E key="player | $damage_rock_curse" value="3" >
     </E>
     <E key="player | $damage_slice" value="24" >
     </E>
@@ -69,6 +71,8 @@
     <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_invis | $damage_projectile" value="1" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
     </E>
     <E key="skullrat | $damage_melee" value="1" >
     </E>
@@ -96,11 +100,13 @@
   <kill_map>
     <E key="ant" value="1" >
     </E>
+    <E key="glue" value="1" >
+    </E>
     <E key="longleg" value="2" >
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>
-    <E key="rat" value="25" >
+    <E key="rat" value="26" >
     </E>
     <E key="scorpion" value="10" >
     </E>

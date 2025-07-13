@@ -1,14 +1,14 @@
-<Stats deaths="6" kills="61" player_kills="0" player_projectile_count="0" >
+<Stats deaths="10" kills="62" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="9" >
     </E>
   </death_map>
   <kill_map>
     <E key="acidshooter" value="1" >
     </E>
-    <E key="fish" value="23" >
+    <E key="fish" value="24" >
     </E>
     <E key="fly" value="1" >
     </E>

@@ -1,12 +1,12 @@
-<Stats deaths="294" kills="90" player_kills="2" player_projectile_count="0" >
+<Stats deaths="327" kills="95" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="56" >
+    <E key="NULL | $damage_explosion" value="59" >
     </E>
-    <E key="NULL | $damage_fire" value="13" >
+    <E key="NULL | $damage_fire" value="14" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -30,6 +30,8 @@
     </E>
     <E key="necromancer_super | $damage_projectile" value="2" >
     </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
     <E key="player | $damage_explosion" value="9" >
     </E>
     <E key="player | $damage_fire" value="1" >
@@ -38,9 +40,9 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="137" >
+    <E key="player | $damage_projectile" value="162" >
     </E>
-    <E key="player | $damage_rock_curse" value="3" >
+    <E key="player | $damage_rock_curse" value="4" >
     </E>
     <E key="player | $damage_slice" value="15" >
     </E>
@@ -70,7 +72,7 @@
     </E>
     <E key="wizard_swapper | $damage_slice" value="1" >
     </E>
-    <E key="worm_skull | worm bite" value="1" >
+    <E key="worm_skull | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
@@ -88,9 +90,9 @@
     </E>
     <E key="polyorb" value="1" >
     </E>
-    <E key="potion" value="1" >
+    <E key="potion" value="2" >
     </E>
-    <E key="rat" value="46" >
+    <E key="rat" value="47" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>
@@ -108,7 +110,7 @@
     </E>
     <E key="tentacler" value="1" >
     </E>
-    <E key="tentacler_small" value="10" >
+    <E key="tentacler_small" value="13" >
     </E>
     <E key="wizard_dark" value="2" >
     </E>

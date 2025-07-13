@@ -1,18 +1,22 @@
-<Stats deaths="67" kills="61" player_kills="0" player_projectile_count="0" >
+<Stats deaths="93" kills="89" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="3" >
+    <E key="NULL | $damage_drowning" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="9" >
+    <E key="NULL | $damage_explosion" value="15" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="maggot_tiny | worm bite" value="1" >
     </E>
-    <E key="meatmaggot | worm bite" value="11" >
+    <E key="meatmaggot | worm bite" value="15" >
     </E>
-    <E key="miner_hell | $damage_explosion" value="11" >
+    <E key="miner_hell | $damage_explosion" value="15" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="15" >
+    <E key="player | $damage_holy" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="17" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -20,11 +24,11 @@
     </E>
     <E key="sniper_hell | $damage_explosion" value="1" >
     </E>
-    <E key="sniper_hell | $damage_projectile" value="4" >
+    <E key="sniper_hell | $damage_projectile" value="5" >
     </E>
     <E key="walleye | $damage_explosion" value="1" >
     </E>
-    <E key="walleye | $damage_projectile" value="2" >
+    <E key="walleye | $damage_projectile" value="3" >
     </E>
     <E key="worm_big | worm bite" value="4" >
     </E>
@@ -32,19 +36,21 @@
   <kill_map>
     <E key="failed_alchemist" value="1" >
     </E>
-    <E key="meatmaggot" value="6" >
+    <E key="meatmaggot" value="11" >
     </E>
-    <E key="miner_hell" value="11" >
+    <E key="miner_hell" value="15" >
     </E>
-    <E key="rat" value="16" >
+    <E key="rat" value="26" >
     </E>
-    <E key="shotgunner_hell" value="2" >
+    <E key="shotgunner_hell" value="3" >
     </E>
-    <E key="tnt_hell" value="18" >
+    <E key="tnt_hell" value="23" >
     </E>
     <E key="walleye" value="3" >
     </E>
-    <E key="wallmouth" value="4" >
+    <E key="wallmouth" value="6" >
+    </E>
+    <E key="wizard_tele" value="1" >
     </E>
   </kill_map>
 </Stats>

@@ -1,16 +1,16 @@
-<Stats deaths="4411" kills="196" player_kills="2" player_projectile_count="0" >
+<Stats deaths="4470" kills="196" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="215" >
+    <E key="NULL | $damage_drowning" value="225" >
     </E>
-    <E key="NULL | $damage_electricity" value="95" >
+    <E key="NULL | $damage_electricity" value="103" >
     </E>
-    <E key="NULL | $damage_explosion" value="1094" >
+    <E key="NULL | $damage_explosion" value="1099" >
     </E>
     <E key="NULL | $damage_fire" value="5" >
     </E>
     <E key="NULL | $damage_melee" value="15" >
     </E>
-    <E key="NULL | $damage_physicshit" value="54" >
+    <E key="NULL | $damage_physicshit" value="62" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -86,11 +86,11 @@
     </E>
     <E key="orb_laseremitter_weak | $damage_plasmabeam" value="4" >
     </E>
-    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="138" >
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="146" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="11" >
     </E>
-    <E key="player | $damage_explosion" value="365" >
+    <E key="player | $damage_explosion" value="379" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -100,13 +100,13 @@
     </E>
     <E key="player | $damage_melee" value="68" >
     </E>
-    <E key="player | $damage_plasmabeam" value="118" >
+    <E key="player | $damage_plasmabeam" value="119" >
     </E>
-    <E key="player | $damage_projectile" value="1383" >
+    <E key="player | $damage_projectile" value="1385" >
     </E>
     <E key="player | $damage_rock_curse" value="68" >
     </E>
-    <E key="player | $damage_slice" value="71" >
+    <E key="player | $damage_slice" value="73" >
     </E>
     <E key="player | bzzt!" value="6" >
     </E>
@@ -122,7 +122,7 @@
     </E>
     <E key="rock_curse | $damage_rock_curse" value="9" >
     </E>
-    <E key="scavenger_glue | $damage_melee" value="1" >
+    <E key="scavenger_glue | $damage_melee" value="2" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>

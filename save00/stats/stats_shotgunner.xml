@@ -1,4 +1,4 @@
-<Stats deaths="1982" kills="795" player_kills="8" player_projectile_count="0" >
+<Stats deaths="2008" kills="805" player_kills="8" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_slice" value="1" >
     </E>
@@ -6,21 +6,21 @@
     </E>
     <E key="NULL | $damage_electricity" value="14" >
     </E>
-    <E key="NULL | $damage_explosion" value="162" >
+    <E key="NULL | $damage_explosion" value="168" >
     </E>
-    <E key="NULL | $damage_fire" value="180" >
+    <E key="NULL | $damage_fire" value="181" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="107" >
+    <E key="NULL | $damage_physicshit" value="113" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="4" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="178" >
+    <E key="NULL | $damage_radioactive" value="179" >
     </E>
     <E key="NULL | damage from material: acid" value="9" >
     </E>
@@ -36,11 +36,11 @@
     </E>
     <E key="NULL | kill sync" value="1" >
     </E>
-    <E key="bat | $damage_melee" value="13" >
+    <E key="bat | $damage_melee" value="14" >
     </E>
     <E key="bigbat | $damage_melee" value="2" >
     </E>
-    <E key="bigfirebug | $damage_fire" value="1" >
+    <E key="bigfirebug | $damage_fire" value="2" >
     </E>
     <E key="bigfirebug | $damage_melee" value="1" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="boss_pit | $damage_explosion" value="1" >
     </E>
-    <E key="chest_mimic | $damage_melee" value="1" >
+    <E key="chest_mimic | $damage_melee" value="2" >
     </E>
     <E key="death_ghost | $damage_curse" value="1" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="goblin_bomb | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="36" >
+    <E key="iceskull | $damage_explosion" value="37" >
     </E>
     <E key="iceskull | $damage_ice" value="14" >
     </E>
@@ -88,17 +88,19 @@
     </E>
     <E key="player | $damage_hitfx_curse" value="4" >
     </E>
+    <E key="player | $damage_holy" value="1" >
+    </E>
     <E key="player | $damage_ice" value="8" >
     </E>
     <E key="player | $damage_kick" value="4" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="664" >
+    <E key="player | $damage_projectile" value="669" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="127" >
+    <E key="player | $damage_slice" value="129" >
     </E>
     <E key="playerghost | $damage_melee" value="2" >
     </E>
@@ -172,7 +174,7 @@
     </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="28" >
+    <E key="iceskull" value="29" >
     </E>
     <E key="longleg" value="1" >
     </E>
@@ -190,9 +192,11 @@
     </E>
     <E key="potion" value="2" >
     </E>
-    <E key="rat" value="581" >
+    <E key="rat" value="589" >
     </E>
     <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
     <E key="sheep" value="1" >
     </E>

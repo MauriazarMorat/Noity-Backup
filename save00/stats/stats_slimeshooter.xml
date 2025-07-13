@@ -1,22 +1,22 @@
-<Stats deaths="1182" kills="454" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1201" kills="464" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="18" >
+    <E key="NULL | $damage_drowning" value="20" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="266" >
+    <E key="NULL | $damage_explosion" value="272" >
     </E>
     <E key="NULL | $damage_fire" value="62" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="29" >
+    <E key="NULL | $damage_physicshit" value="30" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="5" >
+    <E key="NULL | damage from material: freezing liquid" value="6" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="12" >
+    <E key="NULL | damage from material: freezing vapour" value="13" >
     </E>
     <E key="NULL | damage from material: lava" value="10" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="drone_physics | $damage_projectile" value="1" >
     </E>
-    <E key="firebug | $damage_fire" value="2" >
+    <E key="firebug | $damage_fire" value="3" >
     </E>
     <E key="firebug | $damage_melee" value="2" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="5" >
     </E>
-    <E key="iceskull | $damage_ice" value="15" >
+    <E key="iceskull | $damage_ice" value="16" >
     </E>
     <E key="iceskull | $damage_melee" value="3" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="27" >
+    <E key="player | $damage_explosion" value="28" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="402" >
+    <E key="player | $damage_projectile" value="403" >
     </E>
     <E key="player | $damage_slice" value="76" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="shotgunner_weak | $damage_projectile" value="2" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="10" >
+    <E key="slimeshooter | $damage_explosion" value="11" >
     </E>
     <E key="slimeshooter | $damage_melee" value="1" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="sniper | $damage_melee" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="63" >
+    <E key="sniper | $damage_projectile" value="65" >
     </E>
     <E key="sunbaby | $damage_sun" value="1" >
     </E>
@@ -125,6 +125,8 @@
     <E key="tentacler | $damage_melee" value="3" >
     </E>
     <E key="thundermage | $damage_electricity" value="3" >
+    </E>
+    <E key="thundermage_big | $damage_explosion" value="1" >
     </E>
     <E key="thunderskull | $damage_explosion" value="1" >
     </E>
@@ -154,6 +156,10 @@
     </E>
     <E key="firebug" value="32" >
     </E>
+    <E key="fish" value="2" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
     <E key="fungus" value="1" >
     </E>
     <E key="giantshooter_weak" value="1" >
@@ -180,7 +186,7 @@
     </E>
     <E key="radioactive_blob_trail" value="10" >
     </E>
-    <E key="rat" value="314" >
+    <E key="rat" value="320" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>
@@ -188,7 +194,7 @@
     </E>
     <E key="shotgunner" value="17" >
     </E>
-    <E key="slimeshooter" value="12" >
+    <E key="slimeshooter" value="13" >
     </E>
     <E key="sniper" value="1" >
     </E>

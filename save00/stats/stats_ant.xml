@@ -1,10 +1,10 @@
-<Stats deaths="184" kills="204" player_kills="0" player_projectile_count="0" >
+<Stats deaths="186" kills="206" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="84" >
+    <E key="NULL | $damage_explosion" value="86" >
     </E>
     <E key="NULL | $damage_fire" value="2" >
     </E>
@@ -64,7 +64,7 @@
     </E>
     <E key="drone_physics" value="2" >
     </E>
-    <E key="frog_big" value="2" >
+    <E key="frog_big" value="3" >
     </E>
     <E key="fungus_tiny" value="3" >
     </E>
@@ -72,7 +72,7 @@
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>
-    <E key="rat" value="17" >
+    <E key="rat" value="18" >
     </E>
     <E key="slimeshooter" value="2" >
     </E>

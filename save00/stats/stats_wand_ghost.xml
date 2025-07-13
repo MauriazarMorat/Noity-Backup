@@ -1,12 +1,22 @@
-<Stats deaths="48" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="60" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
     <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
     <E key="orb_laseremitter | $damage_plasmabeam" value="1" >
     </E>
     <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_holy" value="5" >
     </E>
     <E key="player | $damage_projectile" value="30" >
     </E>
@@ -16,7 +26,13 @@
     </E>
     <E key="wand_ghost | $damage_explosion" value="5" >
     </E>
+    <E key="wand_ghost | $damage_projectile" value="1" >
+    </E>
+    <E key="wand_ghost | $damage_rock_curse" value="1" >
+    </E>
     <E key="wizard_returner | $damage_explosion" value="2" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>
@@ -28,7 +44,9 @@
     </E>
     <E key="slimeshooter_nontoxic" value="2" >
     </E>
-    <E key="wand_ghost" value="5" >
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wand_ghost" value="7" >
     </E>
   </kill_map>
 </Stats>

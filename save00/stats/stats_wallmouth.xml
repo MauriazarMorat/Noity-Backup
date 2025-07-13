@@ -1,6 +1,6 @@
-<Stats deaths="69" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="102" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="3" >
+    <E key="NULL | $damage_explosion" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -12,13 +12,15 @@
     </E>
     <E key="maggot_tiny | worm bite" value="4" >
     </E>
-    <E key="meatmaggot | worm bite" value="13" >
+    <E key="meatmaggot | worm bite" value="24" >
     </E>
-    <E key="miner_hell | $damage_explosion" value="4" >
+    <E key="miner_hell | $damage_explosion" value="6" >
     </E>
     <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="34" >
+    <E key="player | $damage_explosion" value="52" >
+    </E>
+    <E key="sniper_hell | $damage_explosion" value="1" >
     </E>
     <E key="walleye | $damage_explosion" value="2" >
     </E>
@@ -26,7 +28,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="meatmaggot" value="2" >
+    <E key="meatmaggot" value="3" >
     </E>
     <E key="rat" value="5" >
     </E>

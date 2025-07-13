@@ -1,4 +1,4 @@
-<Stats deaths="46" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="58" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -14,15 +14,19 @@
     </E>
     <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="32" >
+    <E key="player | $damage_projectile" value="43" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="acidshot" value="1" >
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="3" >
     </E>
     <E key="berserkspirit" value="1" >
     </E>

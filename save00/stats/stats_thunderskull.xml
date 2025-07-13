@@ -1,16 +1,20 @@
-<Stats deaths="116" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="126" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="10" >
     </E>
-    <E key="NULL | $damage_explosion" value="21" >
+    <E key="NULL | $damage_explosion" value="24" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_ice" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: lava" value="12" >
+    <E key="NULL | damage from material: lava" value="14" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="flamer | $damage_explosion" value="2" >
     </E>
@@ -20,7 +24,7 @@
     </E>
     <E key="player | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="26" >
+    <E key="player | $damage_projectile" value="28" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -56,7 +60,7 @@
     </E>
     <E key="rat" value="13" >
     </E>
-    <E key="scavenger_grenade" value="3" >
+    <E key="scavenger_grenade" value="4" >
     </E>
     <E key="scavenger_smg" value="3" >
     </E>

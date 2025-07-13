@@ -1,20 +1,20 @@
-<Stats deaths="230" kills="138" player_kills="1" player_projectile_count="0" >
+<Stats deaths="249" kills="145" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="10" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="38" >
+    <E key="NULL | $damage_explosion" value="39" >
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | damage from material: acid" value="2" >
     </E>
-    <E key="NULL | damage from material: lava" value="8" >
+    <E key="NULL | damage from material: lava" value="9" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="8" >
     </E>
@@ -26,17 +26,17 @@
     </E>
     <E key="miniblob | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="6" >
+    <E key="player | $damage_explosion" value="9" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
     <E key="player | $damage_hitfx_curse" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="104" >
+    <E key="player | $damage_projectile" value="115" >
     </E>
-    <E key="player | $damage_rock_curse" value="4" >
+    <E key="player | $damage_rock_curse" value="5" >
     </E>
-    <E key="player | $damage_slice" value="7" >
+    <E key="player | $damage_slice" value="8" >
     </E>
     <E key="player | bzzt!" value="1" >
     </E>
@@ -70,6 +70,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshot" value="3" >
+    </E>
     <E key="ant" value="2" >
     </E>
     <E key="blob" value="2" >
@@ -90,9 +92,9 @@
     </E>
     <E key="rat" value="50" >
     </E>
-    <E key="scorpion" value="13" >
+    <E key="scorpion" value="16" >
     </E>
-    <E key="sheep" value="1" >
+    <E key="sheep" value="2" >
     </E>
     <E key="sheep_bat" value="1" >
     </E>

@@ -11,7 +11,7 @@
     scale.y="1" >
   </_Transform>
   <WorldStateComponent 
-    DEBUG_LOADED_FROM_AUTOSAVE="0" 
+    DEBUG_LOADED_FROM_AUTOSAVE="1" 
     DEBUG_LOADED_FROM_OLD_VERSION="0" 
     ENDING_HAPPINESS="0" 
     ENDING_HAPPINESS_FRAMES="0" 
@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="-6.38383" 
-    clouds_02_target="-53.7354" 
+    clouds_01_target="-6.17321" 
+    clouds_02_target="-53.2627" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="37" 
+    day_count="48" 
     fog="0.00498472" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -47,24 +47,28 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="2" 
-    player_polymorph_random_count="1" 
+    player_polymorph_count="6" 
+    player_polymorph_random_count="2" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.380635" 
-    rain_target="0.385622" 
+    rain="0.00498946" 
+    rain_target="0" 
     session_stat_file="??STA/sessions/20250615-221450" 
     sky_sunset_alpha_target="1" 
-    time="0.376948" 
+    time="0.910748" 
     time_dt="1" 
-    time_total="37.3988" 
+    time_total="49.7242" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.114308" 
-    wind_speed="-6.85855" 
+    wind="-0.0829506" 
+    wind_speed="-4.9792" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
+      <E 
+        key="BOSS_ARENA_BUILDUP_TRIGGERED" 
+        value="1" >
+      </E>
       <E 
         key="BOSS_MEAT_DEAD" 
         value="1" >
@@ -94,8 +98,12 @@
         value="1" >
       </E>
       <E 
+        key="HEARTS_MORE_EXTRA_HP_MULTIPLIER" 
+        value="2" >
+      </E>
+      <E 
         key="HELPLESS_KILLS" 
-        value="74" >
+        value="139" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -130,8 +138,12 @@
         value="1" >
       </E>
       <E 
-        key="PERK_PICKED_MAP_PICKUP_COUNT" 
+        key="PERK_PICKED_HEARTS_MORE_EXTRA_HP_PICKUP_COUNT" 
         value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_MAP_PICKUP_COUNT" 
+        value="2" >
       </E>
       <E 
         key="PERK_PICKED_MOON_RADAR_PICKUP_COUNT" 
@@ -143,6 +155,10 @@
       </E>
       <E 
         key="PERK_PICKED_PROTECTION_FIRE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_REMOVE_FOG_OF_WAR_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -159,7 +175,7 @@
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_1307" 
-        value="0" >
+        value="1" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_2843" 
@@ -175,10 +191,14 @@
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_8475" 
-        value="1" >
+        value="0" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_2233_13078" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_16" 
         value="1" >
       </E>
       <E 
@@ -211,7 +231,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="23" >
+        value="41" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
@@ -231,11 +251,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_lava,$biome_boss_arena,_EMPTY_,$biome_crypt,$biome_holymountain,$biome_va" >
+        value="_EMPTY_,$biome_liquidcave,$biome_winter_caves,$biome_lake,_EMPTY_,$biome_robobas" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="285" >
+        value="499" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -280,6 +300,18 @@
       </primitive>
       <primitive>
         10
+      </primitive>
+      <primitive>
+        265
+      </primitive>
+      <primitive>
+        256
+      </primitive>
+      <primitive>
+        257
+      </primitive>
+      <primitive>
+        258
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -741,6 +773,159 @@
       </string>
       <string>
         new_action_alpha
+      </string>
+      <string>
+        PERK_LASER_AIM
+      </string>
+      <string>
+        PERK_REMOVE_FOG_OF_WAR
+      </string>
+      <string>
+        PERK_GOLD_IS_FOREVER
+      </string>
+      <string>
+        PERK_PICKED_REMOVE_FOG_OF_WAR
+      </string>
+      <string>
+        new_kill_worm_skull
+      </string>
+      <string>
+        new_action_add_trigger
+      </string>
+      <string>
+        PERK_WAND_EXPERIMENTER
+      </string>
+      <string>
+        PERK_SHIELD
+      </string>
+      <string>
+        new_kill_boss_ghost
+      </string>
+      <string>
+        new_kill_parallel_alchemist
+      </string>
+      <string>
+        new_action_sigma
+      </string>
+      <string>
+        new_kill_statue
+      </string>
+      <string>
+        new_kill_parallel_tentacles
+      </string>
+      <string>
+        musicmachine2_done
+      </string>
+      <string>
+        musicmachine4
+      </string>
+      <string>
+        musicmachine4_done
+      </string>
+      <string>
+        musicmachine1
+      </string>
+      <string>
+        musicmachine1_done
+      </string>
+      <string>
+        musicmachine3
+      </string>
+      <string>
+        musicmachine3_done
+      </string>
+      <string>
+        new_action_divide_2
+      </string>
+      <string>
+        new_action_divide_3
+      </string>
+      <string>
+        new_action_divide_4
+      </string>
+      <string>
+        new_action_burst_8
+      </string>
+      <string>
+        new_action_burst_x
+      </string>
+      <string>
+        PERK_REVENGE_EXPLOSION
+      </string>
+      <string>
+        PERK_MANA_FROM_KILLS
+      </string>
+      <string>
+        PERK_PROJECTILE_REPULSION_SECTOR
+      </string>
+      <string>
+        PERK_EXTRA_KNOCKBACK
+      </string>
+      <string>
+        PERK_HEARTS_MORE_EXTRA_HP
+      </string>
+      <string>
+        PERK_PICKED_HEARTS_MORE_EXTRA_HP
+      </string>
+      <string>
+        new_action_ocarina_e
+      </string>
+      <string>
+        new_action_ocarina_c
+      </string>
+      <string>
+        new_action_ocarina_b
+      </string>
+      <string>
+        new_action_ocarina_gsharp
+      </string>
+      <string>
+        new_action_ocarina_f
+      </string>
+      <string>
+        alchemy_ocarina
+      </string>
+      <string>
+        alchemy_kantele
+      </string>
+      <string>
+        new_action_all_discs
+      </string>
+      <string>
+        new_action_all_nukes
+      </string>
+      <string>
+        new_action_all_acid
+      </string>
+      <string>
+        new_action_all_deathcrosses
+      </string>
+      <string>
+        new_action_all_blackholes
+      </string>
+      <string>
+        new_action_all_rockets
+      </string>
+      <string>
+        PERK_PROJECTILE_HOMING
+      </string>
+      <string>
+        PERK_MOLD
+      </string>
+      <string>
+        greed_curse
+      </string>
+      <string>
+        PERK_PROJECTILE_REPULSION
+      </string>
+      <string>
+        PERK_BOUNCE
+      </string>
+      <string>
+        PERK_LOW_HP_DAMAGE_BOOST
+      </string>
+      <string>
+        greed_curse_gone
       </string>
     </flags>
     <changed_materials>
