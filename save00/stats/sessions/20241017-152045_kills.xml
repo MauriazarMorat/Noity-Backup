@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="113" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshooter_weak" value="2" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="bat" value="23" >
+    </E>
+    <E key="bigbat" value="2" >
+    </E>
+    <E key="bigfirebug" value="3" >
+    </E>
+    <E key="firebug" value="5" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="longleg" value="21" >
+    </E>
+    <E key="miner" value="7" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner" value="8" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="7" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="8" >
+    </E>
+  </kill_map>
+</Stats>

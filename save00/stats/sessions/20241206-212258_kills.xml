@@ -1,0 +1,98 @@
+<Stats deaths="1" kills="216" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="bat" value="17" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="blob" value="5" >
+    </E>
+    <E key="deer" value="1" >
+    </E>
+    <E key="duck" value="1" >
+    </E>
+    <E key="essence_eater" value="1" >
+    </E>
+    <E key="firebug" value="12" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="frog" value="3" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="iceskull" value="6" >
+    </E>
+    <E key="longleg" value="11" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="miniblob" value="25" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="powder_stash" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="22" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_leader" value="2" >
+    </E>
+    <E key="scavenger_smg" value="11" >
+    </E>
+    <E key="scorpion_watchtower" value="1" >
+    </E>
+    <E key="sheep" value="3" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter" value="7" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="4" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="zombie" value="10" >
+    </E>
+    <E key="zombie_weak" value="24" >
+    </E>
+  </kill_map>
+</Stats>

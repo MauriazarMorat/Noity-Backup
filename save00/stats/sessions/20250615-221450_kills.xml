@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="3264" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="3296" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -48,9 +48,9 @@
     </E>
     <E key="boss_alchemist" value="3" >
     </E>
-    <E key="boss_ghost" value="1" >
+    <E key="boss_ghost" value="2" >
     </E>
-    <E key="boss_ghost_polyp" value="81" >
+    <E key="boss_ghost_polyp" value="84" >
     </E>
     <E key="boss_meat" value="2" >
     </E>
@@ -86,13 +86,13 @@
     </E>
     <E key="drone_shield" value="7" >
     </E>
-    <E key="eel" value="1" >
+    <E key="eel" value="3" >
     </E>
     <E key="elk" value="2" >
     </E>
     <E key="enlightened_alchemist" value="19" >
     </E>
-    <E key="essence_eater" value="1" >
+    <E key="essence_eater" value="2" >
     </E>
     <E key="exploding_deer" value="1" >
     </E>
@@ -110,7 +110,9 @@
     </E>
     <E key="firetrap_right" value="3" >
     </E>
-    <E key="fish" value="27" >
+    <E key="fish" value="28" >
+    </E>
+    <E key="fish_giga" value="1" >
     </E>
     <E key="flamer" value="4" >
     </E>
@@ -144,7 +146,7 @@
     </E>
     <E key="healerdrone_physics" value="30" >
     </E>
-    <E key="hpcrystal" value="3" >
+    <E key="hpcrystal" value="5" >
     </E>
     <E key="icemage" value="7" >
     </E>
@@ -162,19 +164,23 @@
     </E>
     <E key="lukki" value="6" >
     </E>
-    <E key="lukki_creepy_long" value="1" >
+    <E key="lukki_creepy_long" value="2" >
     </E>
-    <E key="lukki_eggs" value="3" >
+    <E key="lukki_dark" value="1" >
+    </E>
+    <E key="lukki_eggs" value="5" >
     </E>
     <E key="lukki_longleg" value="10" >
     </E>
-    <E key="lukki_tiny" value="3" >
+    <E key="lukki_tiny" value="5" >
+    </E>
+    <E key="lurker" value="3" >
     </E>
     <E key="maggot" value="2" >
     </E>
     <E key="maggot_tiny" value="2" >
     </E>
-    <E key="meatmaggot" value="10" >
+    <E key="meatmaggot" value="11" >
     </E>
     <E key="mimic_physics" value="2" >
     </E>
@@ -186,7 +192,7 @@
     </E>
     <E key="miner_fire" value="3" >
     </E>
-    <E key="miner_hell" value="20" >
+    <E key="miner_hell" value="21" >
     </E>
     <E key="miner_weak" value="7" >
     </E>
@@ -240,7 +246,7 @@
     </E>
     <E key="roboguard_big" value="14" >
     </E>
-    <E key="root_grower" value="5" >
+    <E key="root_grower" value="6" >
     </E>
     <E key="root_grower_branch" value="1" >
     </E>
@@ -274,7 +280,7 @@
     </E>
     <E key="shooterflower" value="5" >
     </E>
-    <E key="shotgunner" value="33" >
+    <E key="shotgunner" value="34" >
     </E>
     <E key="shotgunner_hell" value="26" >
     </E>
@@ -296,7 +302,7 @@
     </E>
     <E key="sniper_hell" value="22" >
     </E>
-    <E key="snowcrystal" value="5" >
+    <E key="snowcrystal" value="6" >
     </E>
     <E key="spearbot" value="4" >
     </E>
@@ -340,9 +346,9 @@
     </E>
     <E key="wand_ghost" value="15" >
     </E>
-    <E key="wizard_dark" value="33" >
+    <E key="wizard_dark" value="35" >
     </E>
-    <E key="wizard_hearty" value="36" >
+    <E key="wizard_hearty" value="37" >
     </E>
     <E key="wizard_homing" value="20" >
     </E>
@@ -358,7 +364,7 @@
     </E>
     <E key="wizard_tele" value="23" >
     </E>
-    <E key="wizard_twitchy" value="23" >
+    <E key="wizard_twitchy" value="26" >
     </E>
     <E key="wizard_weaken" value="29" >
     </E>
@@ -374,7 +380,7 @@
     </E>
     <E key="wraith_glowing" value="2" >
     </E>
-    <E key="wraith_storm" value="1" >
+    <E key="wraith_storm" value="2" >
     </E>
     <E key="zombie" value="28" >
     </E>

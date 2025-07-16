@@ -11,7 +11,7 @@
     scale.y="1" >
   </_Transform>
   <WorldStateComponent 
-    DEBUG_LOADED_FROM_AUTOSAVE="1" 
+    DEBUG_LOADED_FROM_AUTOSAVE="2" 
     DEBUG_LOADED_FROM_OLD_VERSION="0" 
     ENDING_HAPPINESS="0" 
     ENDING_HAPPINESS_FRAMES="0" 
@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="-6.17321" 
-    clouds_02_target="-53.2627" 
+    clouds_01_target="10.3443" 
+    clouds_02_target="-16.1958" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="48" 
+    day_count="49" 
     fog="0.00498472" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -47,7 +47,7 @@
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
-    player_polymorph_count="6" 
+    player_polymorph_count="5" 
     player_polymorph_random_count="2" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250615-221450" 
     sky_sunset_alpha_target="1" 
-    time="0.910748" 
+    time="0.888037" 
     time_dt="1" 
-    time_total="49.7242" 
+    time_total="50.7686" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.0829506" 
-    wind_speed="-4.9792" 
+    wind="-0.0999632" 
+    wind_speed="-5.9978" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -103,7 +103,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="139" >
+        value="138" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -251,11 +251,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_liquidcave,$biome_winter_caves,$biome_lake,_EMPTY_,$biome_robobas" >
+        value="_EMPTY_,$biome_winter,$biome_clouds,???,$biome_lake,_EMPTY_,$biome_ghost_secret," >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="499" >
+        value="503" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -927,8 +927,26 @@
       <string>
         greed_curse_gone
       </string>
+      <string>
+        new_action_divide_10
+      </string>
+      <string>
+        new_kill_lukki_dark
+      </string>
+      <string>
+        new_kill_fish_giga
+      </string>
+      <string>
+        miniboss_fish
+      </string>
     </flags>
     <changed_materials>
+      <string>
+        water
+      </string>
+      <string>
+        smoke
+      </string>
     </changed_materials>
     <cuts_through_world>
     </cuts_through_world>

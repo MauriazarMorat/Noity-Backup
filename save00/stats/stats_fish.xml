@@ -1,12 +1,12 @@
-<Stats deaths="866" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="889" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="48" >
     </E>
     <E key="NULL | $damage_explosion" value="18" >
     </E>
-    <E key="NULL | $damage_fall" value="11" >
+    <E key="NULL | $damage_fall" value="12" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="18" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -16,7 +16,9 @@
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
-    <E key="eel | worm bite" value="4" >
+    <E key="eel | worm bite" value="9" >
+    </E>
+    <E key="fish_giga | $animal_fish_giga" value="9" >
     </E>
     <E key="necromancer_shop | $damage_explosion" value="133" >
     </E>
@@ -25,6 +27,8 @@
     <E key="necromancer_super | $damage_explosion" value="21" >
     </E>
     <E key="necromancer_super | $damage_projectile" value="3" >
+    </E>
+    <E key="orb_big | $animal_fish_giga" value="3" >
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
@@ -36,7 +40,7 @@
     </E>
     <E key="player | $damage_projectile" value="98" >
     </E>
-    <E key="player | $damage_slice" value="18" >
+    <E key="player | $damage_slice" value="19" >
     </E>
     <E key="player | bzzt!" value="2" >
     </E>
