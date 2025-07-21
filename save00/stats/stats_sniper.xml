@@ -1,6 +1,6 @@
-<Stats deaths="526" kills="487" player_kills="2" player_projectile_count="0" >
+<Stats deaths="544" kills="493" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="11" >
+    <E key="NULL | $damage_drowning" value="12" >
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="11" >
     </E>
-    <E key="NULL | damage from material: lava" value="3" >
+    <E key="NULL | damage from material: lava" value="4" >
     </E>
     <E key="bigzombie | $damage_melee" value="1" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="10" >
+    <E key="iceskull | $damage_ice" value="11" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="51" >
+    <E key="player | $damage_explosion" value="62" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_ice" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="141" >
+    <E key="player | $damage_projectile" value="144" >
     </E>
     <E key="player | $damage_slice" value="27" >
     </E>
@@ -75,6 +75,8 @@
     <E key="sniper | $damage_explosion" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="3" >
+    </E>
+    <E key="sunbaby | $damage_sun" value="1" >
     </E>
     <E key="sunegg | $damage_sun" value="1" >
     </E>
@@ -106,7 +108,7 @@
     </E>
     <E key="pollen" value="1" >
     </E>
-    <E key="rat" value="296" >
+    <E key="rat" value="300" >
     </E>
     <E key="scavenger_grenade" value="8" >
     </E>
@@ -116,7 +118,7 @@
     </E>
     <E key="shotgunner" value="18" >
     </E>
-    <E key="slimeshooter" value="66" >
+    <E key="slimeshooter" value="68" >
     </E>
     <E key="slimeshooter_nontoxic" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="2588" kills="1364" player_kills="3" player_projectile_count="0" >
+<Stats deaths="2597" kills="1371" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_projectile" value="3" >
     </E>
@@ -8,15 +8,15 @@
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="143" >
+    <E key="NULL | $damage_explosion" value="145" >
     </E>
-    <E key="NULL | $damage_fire" value="420" >
+    <E key="NULL | $damage_fire" value="421" >
     </E>
     <E key="NULL | $damage_melee" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="106" >
     </E>
-    <E key="NULL | $damage_radioactive" value="212" >
+    <E key="NULL | $damage_radioactive" value="213" >
     </E>
     <E key="NULL | damage from material: acid" value="20" >
     </E>
@@ -54,7 +54,7 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="30" >
+    <E key="player | $damage_explosion" value="32" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="12" >
     </E>
-    <E key="player | $damage_projectile" value="1054" >
+    <E key="player | $damage_projectile" value="1057" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -108,7 +108,7 @@
     </E>
     <E key="fireskull" value="1" >
     </E>
-    <E key="frog" value="33" >
+    <E key="frog" value="34" >
     </E>
     <E key="frog_big" value="1" >
     </E>
@@ -138,7 +138,7 @@
     </E>
     <E key="zombie" value="70" >
     </E>
-    <E key="zombie_weak" value="912" >
+    <E key="zombie_weak" value="918" >
     </E>
   </kill_map>
 </Stats>

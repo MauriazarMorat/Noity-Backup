@@ -1,4 +1,4 @@
-<Stats deaths="249" kills="223" player_kills="3" player_projectile_count="0" >
+<Stats deaths="250" kills="224" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="3" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="17" >
+    <E key="player | $damage_explosion" value="18" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="scavenger_smg" value="5" >
     </E>
-    <E key="scorpion" value="11" >
+    <E key="scorpion" value="12" >
     </E>
     <E key="shotgunner" value="1" >
     </E>

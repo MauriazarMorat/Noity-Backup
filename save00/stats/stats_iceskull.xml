@@ -1,12 +1,12 @@
-<Stats deaths="639" kills="728" player_kills="0" player_projectile_count="0" >
+<Stats deaths="649" kills="741" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="44" >
+    <E key="NULL | $damage_explosion" value="47" >
     </E>
-    <E key="NULL | $damage_physicshit" value="59" >
+    <E key="NULL | $damage_physicshit" value="62" >
     </E>
     <E key="NULL | $damage_projectile" value="4" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="icemage | $damage_explosion" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="69" >
+    <E key="iceskull | $damage_explosion" value="70" >
     </E>
     <E key="iceskull | $damage_melee" value="3" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="3" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="36" >
+    <E key="scavenger_grenade | $damage_projectile" value="37" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
@@ -68,9 +68,11 @@
     </E>
     <E key="spearbot | $damage_holy" value="1" >
     </E>
+    <E key="sunbaby | $damage_sun" value="1" >
+    </E>
     <E key="tank | $damage_explosion" value="5" >
     </E>
-    <E key="tank | $damage_projectile" value="24" >
+    <E key="tank | $damage_projectile" value="25" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="3" >
     </E>
@@ -86,9 +88,11 @@
   <kill_map>
     <E key="glue" value="58" >
     </E>
-    <E key="iceskull" value="72" >
+    <E key="iceskull" value="73" >
     </E>
     <E key="longleg" value="1" >
+    </E>
+    <E key="miner" value="1" >
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>
@@ -98,7 +102,7 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="409" >
+    <E key="rat" value="417" >
     </E>
     <E key="scavenger_glue" value="6" >
     </E>
@@ -106,11 +110,11 @@
     </E>
     <E key="scavenger_smg" value="34" >
     </E>
-    <E key="shotgunner" value="51" >
+    <E key="shotgunner" value="53" >
     </E>
     <E key="slimeshooter" value="24" >
     </E>
-    <E key="sniper" value="12" >
+    <E key="sniper" value="13" >
     </E>
     <E key="tank" value="1" >
     </E>

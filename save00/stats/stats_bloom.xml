@@ -1,26 +1,34 @@
-<Stats deaths="53" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="66" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key="NULL | $damage_explosion" value="4" >
     </E>
-    <E key="NULL | $damage_fire" value="20" >
+    <E key="NULL | $damage_fire" value="23" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
     </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
     <E key="lukki_dark | $damage_curse" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="3" >
+    <E key="player | $damage_explosion" value="4" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="13" >
+    <E key="player | $damage_projectile" value="14" >
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="sunbaby | $damage_sun" value="1" >
+    </E>
+    <E key="sunegg | $damage_sun" value="1" >
     </E>
     <E key="worm | worm bite" value="2" >
     </E>
@@ -28,7 +36,7 @@
   <kill_map>
     <E key="blob" value="1" >
     </E>
-    <E key="fly" value="3" >
+    <E key="fly" value="4" >
     </E>
     <E key="lukki" value="1" >
     </E>

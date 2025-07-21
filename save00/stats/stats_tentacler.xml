@@ -1,10 +1,10 @@
-<Stats deaths="327" kills="95" player_kills="2" player_projectile_count="0" >
+<Stats deaths="335" kills="95" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="59" >
+    <E key="NULL | $damage_explosion" value="60" >
     </E>
     <E key="NULL | $damage_fire" value="14" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="3" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="10" >
+    <E key="NULL | damage from material: toxic rock" value="12" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="2" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="9" >
+    <E key="player | $damage_explosion" value="10" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -40,11 +40,11 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="162" >
+    <E key="player | $damage_projectile" value="165" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
-    <E key="player | $damage_slice" value="15" >
+    <E key="player | $damage_slice" value="16" >
     </E>
     <E key="playerghost | $damage_explosion" value="1" >
     </E>

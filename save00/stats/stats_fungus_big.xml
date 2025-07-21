@@ -1,16 +1,18 @@
-<Stats deaths="262" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="301" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="78" >
+    <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="41" >
+    <E key="NULL | $damage_explosion" value="91" >
     </E>
-    <E key="NULL | $damage_physicshit" value="8" >
+    <E key="NULL | $damage_fire" value="44" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | $damage_projectile" value="5" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="32" >
+    <E key="NULL | damage from material: acid" value="33" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
@@ -18,17 +20,19 @@
     </E>
     <E key="lukki_dark | $damage_curse" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="13" >
+    <E key="player | $damage_explosion" value="14" >
+    </E>
+    <E key="player | $damage_holy" value="1" >
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="67" >
+    <E key="player | $damage_projectile" value="84" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="3" >
+    <E key="player | $damage_slice" value="4" >
     </E>
     <E key="rock_curse | $damage_rock_curse" value="1" >
     </E>

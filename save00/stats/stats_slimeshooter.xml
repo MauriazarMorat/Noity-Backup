@@ -1,16 +1,16 @@
-<Stats deaths="1201" kills="464" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1210" kills="473" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="20" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="272" >
+    <E key="NULL | $damage_explosion" value="274" >
     </E>
     <E key="NULL | $damage_fire" value="62" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="30" >
+    <E key="NULL | $damage_physicshit" value="31" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="28" >
+    <E key="player | $damage_explosion" value="29" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="403" >
+    <E key="player | $damage_projectile" value="406" >
     </E>
     <E key="player | $damage_slice" value="76" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="sniper | $damage_melee" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="65" >
+    <E key="sniper | $damage_projectile" value="67" >
     </E>
     <E key="sunbaby | $damage_sun" value="1" >
     </E>
@@ -154,7 +154,7 @@
     </E>
     <E key="drone_physics" value="1" >
     </E>
-    <E key="firebug" value="32" >
+    <E key="firebug" value="34" >
     </E>
     <E key="fish" value="2" >
     </E>
@@ -186,7 +186,7 @@
     </E>
     <E key="radioactive_blob_trail" value="10" >
     </E>
-    <E key="rat" value="320" >
+    <E key="rat" value="327" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>

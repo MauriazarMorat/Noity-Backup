@@ -1,20 +1,20 @@
-<Stats deaths="4470" kills="196" player_kills="2" player_projectile_count="0" >
+<Stats deaths="4740" kills="197" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="225" >
+    <E key="NULL | $damage_drowning" value="258" >
     </E>
-    <E key="NULL | $damage_electricity" value="103" >
+    <E key="NULL | $damage_electricity" value="117" >
     </E>
-    <E key="NULL | $damage_explosion" value="1099" >
+    <E key="NULL | $damage_explosion" value="1226" >
     </E>
     <E key="NULL | $damage_fire" value="5" >
     </E>
     <E key="NULL | $damage_melee" value="15" >
     </E>
-    <E key="NULL | $damage_physicshit" value="62" >
+    <E key="NULL | $damage_physicshit" value="64" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | $damage_projectile" value="97" >
+    <E key="NULL | $damage_projectile" value="99" >
     </E>
     <E key="NULL | kill sync" value="1" >
     </E>
@@ -56,9 +56,9 @@
     </E>
     <E key="fungus_giga | $damage_melee" value="8" >
     </E>
-    <E key="fungus_giga | $damage_projectile" value="14" >
+    <E key="fungus_giga | $damage_projectile" value="15" >
     </E>
-    <E key="fungus_tiny | $damage_melee" value="17" >
+    <E key="fungus_tiny | $damage_melee" value="18" >
     </E>
     <E key="icer | $damage_explosion" value="5" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="11" >
     </E>
-    <E key="player | $damage_explosion" value="379" >
+    <E key="player | $damage_explosion" value="442" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -102,11 +102,11 @@
     </E>
     <E key="player | $damage_plasmabeam" value="119" >
     </E>
-    <E key="player | $damage_projectile" value="1385" >
+    <E key="player | $damage_projectile" value="1408" >
     </E>
     <E key="player | $damage_rock_curse" value="68" >
     </E>
-    <E key="player | $damage_slice" value="73" >
+    <E key="player | $damage_slice" value="77" >
     </E>
     <E key="player | bzzt!" value="6" >
     </E>
@@ -208,7 +208,7 @@
     </E>
     <E key="fly" value="6" >
     </E>
-    <E key="fungus_tiny" value="17" >
+    <E key="fungus_tiny" value="18" >
     </E>
     <E key="longleg" value="4" >
     </E>

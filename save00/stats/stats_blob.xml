@@ -1,10 +1,10 @@
-<Stats deaths="877" kills="176" player_kills="0" player_projectile_count="0" >
+<Stats deaths="928" kills="178" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
-    <E key="NULL | $damage_electricity" value="15" >
+    <E key="NULL | $damage_electricity" value="18" >
     </E>
-    <E key="NULL | $damage_explosion" value="399" >
+    <E key="NULL | $damage_explosion" value="434" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -54,7 +54,7 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="41" >
+    <E key="player | $damage_explosion" value="45" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="17" >
     </E>
-    <E key="player | $damage_projectile" value="230" >
+    <E key="player | $damage_projectile" value="239" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
@@ -122,7 +122,7 @@
     </E>
     <E key="fungus_giga" value="1" >
     </E>
-    <E key="fungus_tiny" value="5" >
+    <E key="fungus_tiny" value="6" >
     </E>
     <E key="longleg" value="2" >
     </E>
@@ -144,7 +144,7 @@
     </E>
     <E key="wizard_swapper" value="5" >
     </E>
-    <E key="zombie" value="28" >
+    <E key="zombie" value="29" >
     </E>
     <E key="zombie_weak" value="2" >
     </E>

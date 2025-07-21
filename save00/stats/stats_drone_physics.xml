@@ -1,16 +1,16 @@
-<Stats deaths="211" kills="63" player_kills="0" player_projectile_count="0" >
+<Stats deaths="219" kills="66" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="8" >
+    <E key="NULL | $damage_electricity" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="112" >
+    <E key="NULL | $damage_explosion" value="114" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
     <E key="NULL | damage from material: concentrated mana" value="2" >
     </E>
-    <E key="NULL | physics body damaged" value="29" >
+    <E key="NULL | physics body damaged" value="31" >
     </E>
     <E key="ant | $damage_melee" value="2" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="4" >
+    <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_hitfx_curse" value="1" >
     </E>
@@ -50,7 +50,9 @@
     </E>
     <E key="miniblob" value="8" >
     </E>
-    <E key="rat" value="44" >
+    <E key="rat" value="46" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

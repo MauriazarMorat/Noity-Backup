@@ -1,14 +1,14 @@
-<Stats deaths="309" kills="148" player_kills="1" player_projectile_count="0" >
+<Stats deaths="328" kills="149" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="38" >
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="47" >
+    <E key="NULL | $damage_explosion" value="48" >
     </E>
-    <E key="NULL | $damage_fire" value="30" >
+    <E key="NULL | $damage_fire" value="32" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="7" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="4" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="58" >
+    <E key="NULL | damage from material: lava" value="65" >
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | $damage_explosion" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="70" >
+    <E key="player | $damage_projectile" value="73" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -57,6 +57,8 @@
     <E key="skygazer | $damage_holy" value="1" >
     </E>
     <E key="sniper_hell | $damage_projectile" value="1" >
+    </E>
+    <E key="sunbaby | $damage_sun" value="5" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
@@ -86,7 +88,7 @@
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="112" >
+    <E key="rat" value="113" >
     </E>
     <E key="scorpion" value="8" >
     </E>

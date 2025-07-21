@@ -1,12 +1,12 @@
-<Stats deaths="2069" kills="257" player_kills="3" player_projectile_count="0" >
+<Stats deaths="2115" kills="259" player_kills="3" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="34" >
+    <E key="NULL | $damage_drowning" value="36" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
     <E key="NULL | $damage_explosion" value="100" >
     </E>
-    <E key="NULL | $damage_fire" value="330" >
+    <E key="NULL | $damage_fire" value="331" >
     </E>
     <E key="NULL | $damage_physicshit" value="74" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="12" >
     </E>
-    <E key="NULL | damage from material: lava" value="64" >
+    <E key="NULL | damage from material: lava" value="69" >
     </E>
     <E key="NULL | damage from material: toxic gas" value="7" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
-    <E key="player | $damage_explosion" value="74" >
+    <E key="player | $damage_explosion" value="76" >
     </E>
     <E key="player | $damage_hitfx_curse" value="4" >
     </E>
@@ -70,9 +70,9 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="1066" >
+    <E key="player | $damage_projectile" value="1070" >
     </E>
-    <E key="player | $damage_slice" value="142" >
+    <E key="player | $damage_slice" value="143" >
     </E>
     <E key="player | bzzt!" value="9" >
     </E>
@@ -95,6 +95,8 @@
     <E key="slimeshooter | $damage_explosion" value="5" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="2" >
+    </E>
+    <E key="sunegg | $damage_sun" value="31" >
     </E>
     <E key="wizard_tele | $damage_projectile" value="3" >
     </E>
@@ -122,7 +124,7 @@
     </E>
     <E key="player" value="3" >
     </E>
-    <E key="rat" value="177" >
+    <E key="rat" value="179" >
     </E>
     <E key="shotgunner" value="14" >
     </E>
