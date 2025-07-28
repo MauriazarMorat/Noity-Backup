@@ -1,8 +1,8 @@
-<Stats deaths="219" kills="66" player_kills="0" player_projectile_count="0" >
+<Stats deaths="226" kills="66" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="9" >
+    <E key="NULL | $damage_electricity" value="10" >
     </E>
-    <E key="NULL | $damage_explosion" value="114" >
+    <E key="NULL | $damage_explosion" value="115" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | damage from material: concentrated mana" value="2" >
     </E>
-    <E key="NULL | physics body damaged" value="31" >
+    <E key="NULL | physics body damaged" value="32" >
     </E>
     <E key="ant | $damage_melee" value="2" >
     </E>
@@ -22,11 +22,11 @@
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="5" >
+    <E key="player | $damage_explosion" value="7" >
     </E>
     <E key="player | $damage_hitfx_curse" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="41" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>

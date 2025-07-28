@@ -1,8 +1,8 @@
-<Stats deaths="151" kills="34" player_kills="0" player_projectile_count="0" >
+<Stats deaths="158" kills="34" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="10" >
+    <E key="NULL | $damage_drowning" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="29" >
+    <E key="NULL | $damage_explosion" value="30" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -14,6 +14,8 @@
     </E>
     <E key="NULL | damage from material: lava" value="14" >
     </E>
+    <E key="assassin | $damage_melee" value="1" >
+    </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="flamer | $damage_explosion" value="2" >
@@ -22,11 +24,13 @@
     </E>
     <E key="gazer | $damage_projectile" value="1" >
     </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
+    </E>
     <E key="monk | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="7" >
+    <E key="player | $damage_explosion" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="31" >
+    <E key="player | $damage_projectile" value="33" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>

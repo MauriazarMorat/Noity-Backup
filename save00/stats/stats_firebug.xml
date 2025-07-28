@@ -1,12 +1,12 @@
-<Stats deaths="1938" kills="144" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1947" kills="146" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_slice" value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="36" >
+    <E key="NULL | $damage_drowning" value="37" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="211" >
+    <E key="NULL | $damage_explosion" value="212" >
     </E>
     <E key="NULL | $damage_physicshit" value="96" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_electricity" value="15" >
     </E>
-    <E key="player | $damage_explosion" value="32" >
+    <E key="player | $damage_explosion" value="38" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="playerghost | $damage_projectile" value="1" >
     </E>
-    <E key="rat | $damage_melee" value="43" >
+    <E key="rat | $damage_melee" value="44" >
     </E>
     <E key="roboguard | $damage_projectile" value="2" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="plague_rats_rat" value="2" >
     </E>
-    <E key="rat" value="72" >
+    <E key="rat" value="74" >
     </E>
     <E key="shotgunner" value="12" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="114" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="117" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -12,11 +12,13 @@
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
     </E>
     <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
     </E>
@@ -28,7 +30,7 @@
     </E>
     <E key="player | $damage_holy" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="49" >
+    <E key="player | $damage_projectile" value="50" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>

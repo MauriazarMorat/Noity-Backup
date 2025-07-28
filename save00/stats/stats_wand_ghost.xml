@@ -1,4 +1,4 @@
-<Stats deaths="60" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="61" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="wand_ghost | $damage_projectile" value="1" >
     </E>
-    <E key="wand_ghost | $damage_rock_curse" value="1" >
+    <E key="wand_ghost | $damage_rock_curse" value="2" >
     </E>
     <E key="wizard_returner | $damage_explosion" value="2" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="thundermage" value="1" >
     </E>
-    <E key="wand_ghost" value="7" >
+    <E key="wand_ghost" value="8" >
     </E>
   </kill_map>
 </Stats>

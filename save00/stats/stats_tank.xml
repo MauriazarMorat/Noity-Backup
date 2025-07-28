@@ -1,4 +1,4 @@
-<Stats deaths="289" kills="166" player_kills="1" player_projectile_count="0" >
+<Stats deaths="302" kills="168" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="9" >
     </E>
@@ -28,17 +28,19 @@
     </E>
     <E key="player | $damage_electricity" value="10" >
     </E>
-    <E key="player | $damage_explosion" value="49" >
+    <E key="player | $damage_explosion" value="51" >
     </E>
     <E key="player | $damage_hitfx_curse" value="1" >
     </E>
     <E key="player | $damage_holy" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="103" >
+    <E key="player | $damage_projectile" value="113" >
     </E>
     <E key="player | $damage_slice" value="8" >
     </E>
     <E key="sunbaby | $damage_sun" value="1" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>
@@ -72,7 +74,7 @@
     </E>
     <E key="pollen" value="3" >
     </E>
-    <E key="rat" value="103" >
+    <E key="rat" value="105" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

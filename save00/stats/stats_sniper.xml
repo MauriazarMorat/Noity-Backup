@@ -1,10 +1,10 @@
-<Stats deaths="544" kills="493" player_kills="2" player_projectile_count="0" >
+<Stats deaths="557" kills="506" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="12" >
+    <E key="NULL | $damage_drowning" value="13" >
     </E>
-    <E key="NULL | $damage_electricity" value="5" >
+    <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="71" >
+    <E key="NULL | $damage_explosion" value="74" >
     </E>
     <E key="NULL | $damage_fire" value="17" >
     </E>
@@ -14,9 +14,9 @@
     </E>
     <E key="NULL | $damage_radioactive" value="41" >
     </E>
-    <E key="NULL | damage from material: acid" value="2" >
+    <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="12" >
+    <E key="NULL | damage from material: freezing liquid" value="13" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="11" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="62" >
+    <E key="player | $damage_explosion" value="63" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_ice" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="144" >
+    <E key="player | $damage_projectile" value="149" >
     </E>
     <E key="player | $damage_slice" value="27" >
     </E>
@@ -94,7 +94,9 @@
     </E>
     <E key="giant" value="3" >
     </E>
-    <E key="iceskull" value="45" >
+    <E key="iceskull" value="46" >
+    </E>
+    <E key="maggot" value="1" >
     </E>
     <E key="miniblob" value="11" >
     </E>
@@ -108,7 +110,7 @@
     </E>
     <E key="pollen" value="1" >
     </E>
-    <E key="rat" value="300" >
+    <E key="rat" value="308" >
     </E>
     <E key="scavenger_grenade" value="8" >
     </E>
@@ -116,9 +118,9 @@
     </E>
     <E key="scavenger_smg" value="12" >
     </E>
-    <E key="shotgunner" value="18" >
+    <E key="shotgunner" value="19" >
     </E>
-    <E key="slimeshooter" value="68" >
+    <E key="slimeshooter" value="70" >
     </E>
     <E key="slimeshooter_nontoxic" value="2" >
     </E>

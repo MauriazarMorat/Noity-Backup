@@ -1,26 +1,26 @@
-<Stats deaths="2496" kills="437" player_kills="8" player_projectile_count="0" >
+<Stats deaths="2557" kills="445" player_kills="8" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="55" >
     </E>
-    <E key="NULL | $damage_electricity" value="37" >
+    <E key="NULL | $damage_electricity" value="45" >
     </E>
-    <E key="NULL | $damage_explosion" value="200" >
+    <E key="NULL | $damage_explosion" value="203" >
     </E>
     <E key="NULL | $damage_fire" value="78" >
     </E>
     <E key="NULL | $damage_ice" value="6" >
     </E>
-    <E key="NULL | $damage_physicshit" value="138" >
+    <E key="NULL | $damage_physicshit" value="139" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
     <E key="NULL | $damage_radioactive" value="37" >
     </E>
-    <E key="NULL | damage from material: acid" value="25" >
+    <E key="NULL | damage from material: acid" value="27" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="16" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="101" >
+    <E key="NULL | damage from material: freezing vapour" value="105" >
     </E>
     <E key="NULL | damage from material: lava" value="22" >
     </E>
@@ -60,9 +60,9 @@
     </E>
     <E key="icer | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="11" >
+    <E key="iceskull | $damage_explosion" value="12" >
     </E>
-    <E key="iceskull | $damage_ice" value="13" >
+    <E key="iceskull | $damage_ice" value="14" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="player | $damage_electricity" value="32" >
     </E>
-    <E key="player | $damage_explosion" value="222" >
+    <E key="player | $damage_explosion" value="241" >
     </E>
     <E key="player | $damage_fire" value="35" >
     </E>
@@ -92,11 +92,11 @@
     </E>
     <E key="player | $damage_plasmabeam" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="1037" >
+    <E key="player | $damage_projectile" value="1058" >
     </E>
     <E key="player | $damage_rock_curse" value="5" >
     </E>
-    <E key="player | $damage_slice" value="146" >
+    <E key="player | $damage_slice" value="147" >
     </E>
     <E key="player | hit" value="1" >
     </E>
@@ -178,7 +178,7 @@
     </E>
     <E key="glue" value="2" >
     </E>
-    <E key="iceskull" value="40" >
+    <E key="iceskull" value="42" >
     </E>
     <E key="longleg" value="1" >
     </E>
@@ -190,7 +190,7 @@
     </E>
     <E key="player" value="8" >
     </E>
-    <E key="rat" value="340" >
+    <E key="rat" value="346" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>

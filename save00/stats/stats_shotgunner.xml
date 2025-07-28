@@ -1,4 +1,4 @@
-<Stats deaths="2040" kills="808" player_kills="8" player_projectile_count="0" >
+<Stats deaths="2062" kills="822" player_kills="8" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_slice" value="1" >
     </E>
@@ -6,15 +6,15 @@
     </E>
     <E key="NULL | $damage_electricity" value="14" >
     </E>
-    <E key="NULL | $damage_explosion" value="174" >
+    <E key="NULL | $damage_explosion" value="177" >
     </E>
-    <E key="NULL | $damage_fire" value="181" >
+    <E key="NULL | $damage_fire" value="182" >
     </E>
     <E key="NULL | $damage_ice" value="3" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="116" >
+    <E key="NULL | $damage_physicshit" value="117" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="4" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="goblin_bomb | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="39" >
+    <E key="iceskull | $damage_explosion" value="41" >
     </E>
     <E key="iceskull | $damage_ice" value="14" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="player | $damage_electricity" value="14" >
     </E>
-    <E key="player | $damage_explosion" value="109" >
+    <E key="player | $damage_explosion" value="114" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -96,7 +96,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="670" >
+    <E key="player | $damage_projectile" value="678" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -120,7 +120,7 @@
     </E>
     <E key="slimeshooter | $damage_explosion" value="15" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="2" >
+    <E key="slimeshooter | $damage_projectile" value="3" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
@@ -128,7 +128,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="16" >
+    <E key="sniper | $damage_projectile" value="17" >
     </E>
     <E key="sunbaby | $damage_sun" value="3" >
     </E>
@@ -194,7 +194,7 @@
     </E>
     <E key="potion" value="2" >
     </E>
-    <E key="rat" value="589" >
+    <E key="rat" value="601" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -204,9 +204,9 @@
     </E>
     <E key="shotgunner" value="4" >
     </E>
-    <E key="slimeshooter" value="31" >
+    <E key="slimeshooter" value="32" >
     </E>
-    <E key="slimeshooter_nontoxic" value="1" >
+    <E key="slimeshooter_nontoxic" value="2" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>

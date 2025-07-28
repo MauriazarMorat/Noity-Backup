@@ -11,7 +11,7 @@
     scale.y="1" >
   </_Transform>
   <WorldStateComponent 
-    DEBUG_LOADED_FROM_AUTOSAVE="3" 
+    DEBUG_LOADED_FROM_AUTOSAVE="4" 
     DEBUG_LOADED_FROM_OLD_VERSION="0" 
     ENDING_HAPPINESS="0" 
     ENDING_HAPPINESS_FRAMES="0" 
@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="10.5469" 
-    clouds_02_target="-15.7413" 
+    clouds_01_target="8.5466" 
+    clouds_02_target="-20.2301" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="55" 
+    day_count="57" 
     fog="0.00498472" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
@@ -48,20 +48,20 @@
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
     player_polymorph_count="8" 
-    player_polymorph_random_count="2" 
+    player_polymorph_random_count="3" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
     rain="0.00499664" 
     rain_target="0" 
     session_stat_file="??STA/sessions/20250615-221450" 
     sky_sunset_alpha_target="1" 
-    time="0.400791" 
+    time="0.284778" 
     time_dt="1" 
-    time_total="56.6594" 
+    time_total="58.6727" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.108592" 
-    wind_speed="-6.51556" 
+    wind="0.0239148" 
+    wind_speed="1.4349" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -103,7 +103,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="141" >
+        value="157" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -158,7 +158,15 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_PROTECTION_MELEE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_REMOVE_FOG_OF_WAR_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_RESPAWN_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -171,7 +179,7 @@
       </E>
       <E 
         key="PLAYER_HALO_LEVEL" 
-        value="-1" >
+        value="0" >
       </E>
       <E 
         key="STEVARI_DEATHS" 
@@ -208,6 +216,10 @@
       <E 
         key="TEMPLE_ACTIVE_2233_13078" 
         value="0" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_35481_8475" 
+        value="1" >
       </E>
       <E 
         key="TEMPLE_COLLAPSED_0_16" 
@@ -258,8 +270,16 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_1_16" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_1_20" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="57" >
+        value="69" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
@@ -279,11 +299,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_winter,$biome_liquidcave,_EMPTY_,$biome_pyramid,$biome_desert,$biome_wint" >
+        value="$biome_boss_victoryroom,$biome_winter,$biome_desert,_EMPTY_,$biome_lake,$biome_b" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="608" >
+        value="628" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -352,6 +372,9 @@
       </primitive>
       <primitive>
         129
+      </primitive>
+      <primitive>
+        261
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -1017,6 +1040,51 @@
       </string>
       <string>
         new_kill_skygazer
+      </string>
+      <string>
+        new_action_random_explosion
+      </string>
+      <string>
+        PERK_PERSONAL_LASER
+      </string>
+      <string>
+        PERK_DEATH_GHOST
+      </string>
+      <string>
+        PERK_RESPAWN
+      </string>
+      <string>
+        PERK_PICKED_RESPAWN
+      </string>
+      <string>
+        PERK_HUNGRY_GHOST
+      </string>
+      <string>
+        PERK_FREEZE_FIELD
+      </string>
+      <string>
+        PERK_PROTECTION_MELEE
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_MELEE
+      </string>
+      <string>
+        PERK_ANGRY_GHOST
+      </string>
+      <string>
+        PERK_NO_WAND_EDITING
+      </string>
+      <string>
+        PERK_SAVING_GRACE
+      </string>
+      <string>
+        PERK_MEGA_BEAM_STONE
+      </string>
+      <string>
+        PERK_PROJECTILE_EATER_SECTOR
+      </string>
+      <string>
+        secret_sun_collision_1
       </string>
     </flags>
     <changed_materials>
